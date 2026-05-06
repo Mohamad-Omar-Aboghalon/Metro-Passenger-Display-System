@@ -2,6 +2,8 @@
 
 This project is a desktop metro passenger display built with Python and Tkinter. It shows the next station, travel direction, station information, a live clock, and a visual metro line map with station progress indicators.
 
+<img width="1907" height="981" alt="Screenshot 2026-05-06 203450" src="https://github.com/user-attachments/assets/45607977-14a4-4c3b-b97a-4dc5324d6815" />
+
 ## Overview
 
 The application opens two windows:
